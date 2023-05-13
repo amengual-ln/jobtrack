@@ -61,6 +61,7 @@ export const useIssueStore = defineStore('IssueStore', {
                     }
                 ]
             }
-        ]
+        ],
+        registries: []
     })
 })
